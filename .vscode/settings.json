@@ -1,0 +1,11 @@
+{
+    "TARGET_IP": "192.168.140.82",
+    "DEBUG_PORT": "6666",
+    "BINARY": "rust_firmware",
+    "SDK_DIR": "/usr/arm-linux-gnueabihf/bin/",
+    "DEST_DIR": "/home/debian",
+    "USER": "debian",
+    "PASS": "temppwd",
+    "BIN_DIR": "target/armv7-unknown-linux-gnueabihf/debug/rust_firmware",
+    "CUR_DIR": "${workspaceFolder}"
+}
